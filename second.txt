@@ -1,4 +1,8 @@
 Hello World--
 this is a second git file.
 adding third line
+<<<<<<< HEAD
 adding fourth line .
+=======
+adding fourth line
+>>>>>>> 73249b339915bc15d98c1036871397075b85dbd7
